@@ -26,3 +26,6 @@ links:
     link: https://www.kcl.ac.uk/people/daniel-chavez-heras
   - link_name: Mastodon
     link: https://sigmoid.social/@chavezheras
+favicon:
+  <link rel="icon" href="favicon-192.png" sizes="192x192">
+  <link rel="icon" href="favicon-228.png" sizes="228x228">
