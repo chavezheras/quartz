@@ -1,5 +1,5 @@
 ---
-title: 🌵 Daniel's Notes.
+title: 📝 Daniel's Notes.
 enableToc: false
 ---
 
