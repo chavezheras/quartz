@@ -11,3 +11,5 @@ For one act or set piece I imagine it has a giant screen arrangement suspended f
 Thematically (and musically) realted to [Deus Ex](https://en.wikipedia.org/wiki/Deus_Ex_(video_game)), as one part is set in post hydro-wars carbon-wars of the near future.
 Other locations inlcude a slum near a pumping station in south east asia like [Lower Bicutan](https://goo.gl/maps/kHa1FhNfRT3f2d3u5)
 I need to watch more contemporary operas, and find whatever happened to that lady that worked at the royal opera house whom I met at Sussex.
+
+Choreographed forearm performance can be used to convey inductive computing. See: [Choreographed, limb-centric performance / Sadeck Waff](https://youtu.be/ekibVX3gK5Q)

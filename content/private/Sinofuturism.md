@@ -20,4 +20,4 @@ nightmare that must be opposed.
 
 From "Sinofuturism and Wave Ontology" paper by [Anna Greenspan](http://annagreenspan.com/about). Got it through The Digital theory Lab at NYU.
 
-![[Sinofuturism and Wave Ontology.pdf]]
+![[assets/Sinofuturism and Wave Ontology.pdf]]
