@@ -7,8 +7,10 @@ tags:
 
 - [ ] Closet door / finish closet
 - [ ] Storage wars en buhardilla
-- [ ] Weather station batteries
+- [x] Weather station batteries
+- [ ] Install batteries
 - [ ] Credit card
-- [ ] Pay hot water Wandsworth
-- [ ] Buy Kurious tickets
+- [x] Pay hot water Wandsworth
+- [x] Buy Kurious tickets
+- [ ] Meal plan
 - [ ] Buy peak district train tickets

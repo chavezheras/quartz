@@ -6,7 +6,7 @@ tags:
 ---
 
 - [ ] Coat hanger
-- [ ] Floor divider
+- [x] Floor divider
 - [ ] Bin bags
-- [ ] Milk
-- [ ] Hula Hops for lunch
+- [x] Milk
+- [x] Hula Hops for lunch

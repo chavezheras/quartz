@@ -7,10 +7,10 @@ tags:
 
 Latest revisions:
 
-- [ ] Discuss the main line of argumentation more explicitly at the beginning of the article (to make the contributions more visible).
-- [ ] Make an effort to establish a better dialogue with the digital humanities/cultural analytics (e.g. via Arnold and Tilton's work) in the theoretical framework.
-- [ ] In practice these two steps mostly involve bringing up a few sentences/aspects here and there.
-- [ ] Divide preliminary results (perhaps call initial insights and reflection) and conclusion.
+- [x] Discuss the main line of argumentation more explicitly at the beginning of the article (to make the contributions more visible).
+- [x] Make an effort to establish a better dialogue with the digital humanities/cultural analytics (e.g. via Arnold and Tilton's work) in the theoretical framework.
+- [x] In practice these two steps mostly involve bringing up a few sentences/aspects here and there.
+- [x] Divide preliminary results (perhaps call initial insights and reflection) and conclusion.
 
 
 
@@ -23,7 +23,7 @@ Comments to the Author
 I can see that the manuscript has been revised, especially in the introduction. To me, it is still necessary to engage more extensively and more clearly with the literature to support the paper's claim of relevance and originality. The theoretical framework in the revised manuscript is not very elaborate, and the author also acknowledges it is as such (“not to be understood as a fully-fledged theoretical framework” and “Save for notable exceptions […] it would be fair to say…”). It is necessary to position your own research more clearly within the field.  
 
 Please look into the following:  
-- [ ] include a more substantial literature review on the fields to which you contribute. It is necessary to elaborate on the ideas of the main authors of each field as it enables to clarify your own contribution  
+- [x] include a more substantial literature review on the fields to which you contribute. It is necessary to elaborate on the ideas of the main authors of each field as it enables to clarify your own contribution  
 
 ~~not sure if elaborating on the main authors mentioned, but can write something about distant viewing, explain how it applies the principles of distant reading to moving images, and how it is concerned with finding patterns in large collections of cultural artefacts. 
 My contribution aims to make visible the sampling operation and data modelling involved in creating the conditions for these distance, namely, how distant viewing spatialises time-based media. 
@@ -31,15 +31,15 @@ The practice I propose re-inscribes these patterns found through computational a
 Is not so much distant viewing, but rather condensed viewing; a computationally-enabled form of probing moving images in time, through the familiar strategies of montage and the syntactic and synoptic apparatus of (dis)continuity as a meaning-making modality that operates through sequential rather than spatial proximity. 
 Thus not plotting moving images as data points in space, but making these data points flow in a timeline. Using the critic's ability to think through time, and to give these proximities a narrative content.~~
 
-up close by sampling
+~~up close by sampling~~
 
-- [ ] be more clear and more specific about your own contribution to all the fields, especially to the field of video essays and to the field of digital humanities  
-- [ ] integrate a clearer dialogue between existing scholarship/findings and own method in the sections where you introduce and evaluate your method  
+- [x] be more clear and more specific about your own contribution to all the fields, especially to the field of video essays and to the field of digital humanities  
+- [x] integrate a clearer dialogue between existing scholarship/findings and own method in the sections where you introduce and evaluate your method  
   
 Other comments:  
-- [ ] The conclusion is for me the strongest part of the article. Therefore, I would love to see more of the conclusion in the main text, and in the introduction (in which you can announce the main argument of the paper more explicitly)  
-- [ ] The author introduces new results and figures in the conclusion. I suggest to move these results and figures to the results' section.  
-- [ ] Minor detail: In the conclusion, it becomes clear that the author did not finish the research on/for the method yet ('preliminary'). This frames the paper a bit as a work-in-progress paper which is not finished yet. Re-phrase it e.g. by stating that the first part of the (evaluation of the) method is finished and presented in this article, and that there will be follow-up research in another paper. Also remove the 'preliminary' from the conclusion's title.  
+- [x] The conclusion is for me the strongest part of the article. Therefore, I would love to see more of the conclusion in the main text, and in the introduction (in which you can announce the main argument of the paper more explicitly)  
+- [x] The author introduces new results and figures in the conclusion. I suggest to move these results and figures to the results' section.  
+- [x] Minor detail: In the conclusion, it becomes clear that the author did not finish the research on/for the method yet ('preliminary'). This frames the paper a bit as a work-in-progress paper which is not finished yet. Re-phrase it e.g. by stating that the first part of the (evaluation of the) method is finished and presented in this article, and that there will be follow-up research in another paper. Also remove the 'preliminary' from the conclusion's title.  
   
   
 Reviewer: 2  
@@ -62,9 +62,8 @@ explain cultural analytics, quantitative film analysis, and computational humani
 
 >Cultural Analytics, Quantitative Film Analysis, and Computational Humanities are interdisciplinary fields that use computational tools and methods to analyze and study cultural expressions and artifacts such as literature, film, and visual arts. They aim to understand the patterns, trends, and relationships among different cultural expressions and to provide insights into the cultural and historical context in which they were produced.
 
->Cultural Analytics is a field that explores the use of digital technologies and methods to study cultural expressions and to understand the relationships among different cultural artifacts. It involves the collection, analysis, and interpretation of large cultural datasets to identify patterns, trends, and relationships. Cultural Analytics draws upon computer science, statistics, mathematics, and the social sciences to provide a quantitative and computational understanding of cultural phenomena.
 
->Quantitative Film Analysis is a subfield of Cultural Analytics that focuses on the use of computational methods to analyze film data. This includes the analysis of visual and audio features of films, such as shot length, color palette, and sound design, as well as the analysis of textual data, such as scripts and reviews. Quantitative Film Analysis is used to study film style, genre, and representation, and to provide insights into the historical and cultural context in which films were produced.
+~~>Quantitative Film Analysis is a subfield of Cultural Analytics that focuses on the use of computational methods to analyze film data. This includes the analysis of visual and audio features of films, such as shot length, color palette, and sound design, as well as the analysis of textual data, such as scripts and reviews. Quantitative Film Analysis is used to study film style, genre, and representation, and to provide insights into the historical and cultural context in which films were produced.~~
 
 >Computational Humanities is an interdisciplinary field that uses computational tools and methods to study the humanities. This includes the use of computational techniques to analyze literary texts, visual arts, music, and film. Computational Humanities seeks to provide new ways of understanding cultural expressions and artifacts and to shed light on the cultural and historical context in which they were produced.
 
@@ -72,12 +71,33 @@ explain cultural analytics, quantitative film analysis, and computational humani
 
 >In conclusion, Cultural Analytics, Quantitative Film Analysis, and Computational Humanities are interdisciplinary fields that use computational tools and methods to study cultural expressions and artifacts. They provide new ways of understanding cultural phenomena and provide insights into the cultural and historical context in which they were produced. The use of distant viewing in computational humanities is a valuable method for analyzing large collections of cultural data and provides a quantitative understanding of cultural expressions at scale.
 
-Videographic criticism and the video essay are emerging scholarly practices in media studies that use the medium of video to analyze, interpret, and critique media artifacts, such as films, television shows, and video games. These practices represent a new form of media analysis that combines traditional critical methods, such as close reading and textual analysis, with audiovisual elements, such as editing, sound design, and animation.
+~~Videographic criticism and the video essay are emerging scholarly practices in media studies that use the medium of video to analyze, interpret, and critique media artifacts, such as films, television shows, and video games. These practices represent a new form of media analysis that combines traditional critical methods, such as close reading and textual analysis, with audiovisual elements, such as editing, sound design, and animation.
 
-Catherine Grant, Christian Keathley, and Jason Mittell are leading scholars in the field of videographic criticism and the video essay. Catherine Grant is known for her work on the theory and practice of videographic film and moving image studies. In her work, she explores the potential of videographic criticism to enrich our understanding of film and moving images through the use of audiovisual elements.
+~~Catherine Grant, Christian Keathley, and Jason Mittell are leading scholars in the field of videographic criticism and the video essay. Catherine Grant is known for her work on the theory and practice of videographic film and moving image studies. In her work, she explores the potential of videographic criticism to enrich our understanding of film and moving images through the use of audiovisual elements.
 
-Christian Keathley is a film scholar who has made significant contributions to the development of videographic criticism as a scholarly practice. He is particularly interested in the relationship between the moving image and the viewer, and how videographic criticism can provide new ways of understanding the experience of watching films.
+~~Christian Keathley is a film scholar who has made significant contributions to the development of videographic criticism as a scholarly practice. He is particularly interested in the relationship between the moving image and the viewer, and how videographic criticism can provide new ways of understanding the experience of watching films.
 
-Jason Mittell is a media scholar who has made important contributions to the field of videographic criticism and the video essay. In his work, he explores the use of video as a tool for critical analysis and the ways in which video can be used to tell stories and make arguments about media artifacts. Mittell is also interested in the potential of the video essay to foster a new form of public scholarship that combines the academic rigor of traditional scholarship with the accessibility and engagement of digital media.
+~~Jason Mittell is a media scholar who has made important contributions to the field of videographic criticism and the video essay. In his work, he explores the use of video as a tool for critical analysis and the ways in which video can be used to tell stories and make arguments about media artifacts. Mittell is also interested in the potential of the video essay to foster a new form of public scholarship that combines the academic rigor of traditional scholarship with the accessibility and engagement of digital media.
 
-In conclusion, videographic criticism and the video essay are emerging scholarly practices in media studies that use the medium of video to analyze and critique media artifacts. These practices represent a new form of media analysis that combines traditional critical methods with audiovisual elements. Scholars such as Catherine Grant, Christian Keathley, and Jason Mittell have made significant contributions to the development of these practices and have explored their potential to enrich our understanding of media artifacts and foster a new form of public scholarship.
+~~In conclusion, videographic criticism and the video essay are emerging scholarly practices in media studies that use the medium of video to analyze and critique media artifacts. These practices represent a new form of media analysis that combines traditional critical methods with audiovisual elements. Scholars such as Catherine Grant, Christian Keathley, and Jason Mittell have made significant contributions to the development of these practices and have explored their potential to enrich our understanding of media artifacts and foster a new form of public scholarship.~~
+
+~~But with the system in place, I expect to render more supercuts and make them available in the same online repository by the time of publication. I also plan two follow-up pieces of research to further explore the epistemic and aesthetic potential of the computational video essay.~~
+
+Response:
+
+To both reviewers:
+Thank you for your comments and valuable feedback.
+I revised the text accordingly, and found especially useful your comments about clarifying the contribution in relation to cultural analytics. This prompted a more thorough revision than I had initially anticipated, made me go back to recover additional sources I had left in out in the initial draft, and helped me adjust the title of the piece to better reflect my own position.
+I also included two new figures to illustrate the main arguments in the text, and a filmography in the references section.
+I believe the balance between theoretical and processual writing is better and the piece clearer as a result. Please find my response on the specific points you raised below, and a revised version of the article attached.
+
+In response to reviewer 1
+
+- I have elaborated on the theoretical framework, expanding on the ideas of the main authors I engage with, and re-framing the review of literature to better clarify my own contribution in relation to cultural analytics, which I also hope is now more evident with the adjusted title of the piece.
+- To address the structural points raised about the last part of the text, I reorganised the "preliminary results" and "conclusions" sections into  "findings and evaluation" and a "future research". This clarifies for the reader what research was already carried out, the findings of it, and future work in the field, I think.
+- I moved several points from the conclusions to the introduction, as suggested, to better signpost the overall contribution of the piece.
+
+In response to reviewer 2
+
+- I engage more with cultural analytics, I also make a more explicit reference to Arnold and Tilton's "distant viewing" work, in both the literature review and the findings and evaluations section.
+- I also made explicit the relation my approach has with existing  cultural analytics methods and practices, including a clearer distinction of epistemic modalities and how these are linked through inductive computing.

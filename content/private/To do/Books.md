@@ -14,3 +14,4 @@ tags:
 
 
 - [ ] [Aesthetic Computing](https://mitpress.mit.edu/9780262562379/aesthetic-computing/) by Paul A. Fishwick
+- [ ] [Photography and the optical unconscious](https://www.dukeupress.edu/photography-and-the-optical-unconscious) Shawn Michelle Smith, Sharon Sliwinski

@@ -6,3 +6,7 @@ tags:
 ---
 
 Larger project. Work on bid for this  💰
+
+Reference for this event and ask Aurora about recordings:
+
+![Responses from media studies towards a "new paradigm" of image production](https://pbs.twimg.com/media/Fm7WJcUXgAA5V9F?format=jpg&name=4096x4096)
