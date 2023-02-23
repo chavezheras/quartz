@@ -1,6 +1,7 @@
 
 ---
 title: "Text-to-video"
+date created: 23 Feb 2023
 draft: true
 tags:
 - text-to-video
@@ -12,4 +13,8 @@ tags:
 ---
 
 [Check out runway's GEN-1](https://twitter.com/karenxcheng/status/1627721862565482496?s=20)
+
+See [this thread](https://twitter.com/CoffeeVectors/status/1628475607846727687?s=20) about video generation using #stablediffusion  and #controlnet
+
+See [this hugging face space](https://huggingface.co/spaces/fffiloni/ControlNet-Video) for more on #controlnet 
 
