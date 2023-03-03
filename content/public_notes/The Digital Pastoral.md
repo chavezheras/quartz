@@ -1,6 +1,6 @@
 ---
 title: "The Digital Pastoral"
-draft: true
+draft: false
 tags:
 - example-tag
 ---

@@ -1,7 +1,7 @@
 ---
 title: "NYU - Prague"
 date_created: 03 March 2023
-draft: true
+draft: false
 tags:
 - CAIL
 - LLMs
