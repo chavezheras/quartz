@@ -1,7 +1,7 @@
 
 ---
 title: "Text-to-video"
-date created: 23 Feb 2023
+date_created: 23 Feb 2023
 draft: true
 tags:
 - text-to-video

@@ -6,7 +6,7 @@ tags:
 ---
 ---
 
-Various projects/concepts/ideas that I found interesting at [[public notes/Transmediale 2023]] .
+Various projects/concepts/ideas that I found interesting at [[Transmediale 2023]] .
 
 ---
 

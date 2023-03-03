@@ -8,7 +8,7 @@ tags:
 ---
 ---
 
-- [ ] Second mark 6AAVC403 Digital Gaming deadline 28 February
+- [x] Second mark 6AAVC403 Digital Gaming deadline 28 February
 - [ ] First marking User-Centered Research 7AAVDM58 8 March
-- [ ] Second mark 5AAVC209 Design in the Digital World ASAP!
+- [x] Second mark 5AAVC209 Design in the Digital World ASAP!
 

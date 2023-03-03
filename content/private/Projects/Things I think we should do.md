@@ -25,6 +25,6 @@ Since we (at KCL) are actually a large teaching operation, and CAIL now has crit
 
 - JVC edited volume
 - Events
-	- CAIL co-sponsored [[public notes/Transmediale 2023|Toward a Minor Tech]]
+	- CAIL co-sponsored [[Transmediale 2023|Toward a Minor Tech]]
 	- CAIL position paper Launch event
 	- Book launch / conversation ―Jussi's new book, others?
