@@ -9,7 +9,7 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: true
+enableRecentNotes: false
 enableGitHubEdit: false
 enableMermaid: true
 GitHubLink: https://github.com/chavezheras/quartz/tree/hugo/content
@@ -18,7 +18,7 @@ search:
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  A place for my notes to grow.
+  Notes of Daniel Chavez Heras, Lecturer in Digital Culture and Creative Computing at King's College London 
 page_title:
   "📝 Daniel's Notes"
 links:
