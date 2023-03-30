@@ -32,7 +32,7 @@ Ayoung Kim
 [Evan Roth](http://www.evan-roth.com) 
 [Suzanne Treister](https://en.wikipedia.org/wiki/Suzanne_Treister)
 
-**Triester** was the most interesting of the three, she presented her work: [Scientific Dreaming](https://en.wikipedia.org/wiki/Suzanne_Treister)
+**Triester** was the most interesting of the three, she presented her work: [Scientific Dreaming]([https://en.wikipedia.org/wiki/Suzanne_Treister](https://www.suzannetreister.net/ScientificDreaming/ScientificDreaming_Menu.html))
 
 >...a project which attempts to open and expand the unconscious imagination of scientists in order to envisage positive futures based on hypothetical scientific breakthoughs and their potential outcomes for this world and beyond, whilst exposing potential risks attached to related technological advances.
 
