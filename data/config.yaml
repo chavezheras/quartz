@@ -9,7 +9,7 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 enableGitHubEdit: false
 enableMermaid: true
 GitHubLink: https://github.com/chavezheras/quartz/tree/hugo/content
