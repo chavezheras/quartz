@@ -1,7 +1,7 @@
 
 ---
 title: "Creative AI Theory and Practice"
-date created: 23 Feb 2023
+date: 23 Feb 2023
 draft: false
 tags:
 - CAIL
@@ -9,6 +9,11 @@ tags:
 ---
 ---
 
- [Twitter thread about this from King's AI institute](https://twitter.com/aiatkings/status/1628419338200809472?s=20) 
+[Creative AI Theory and Practice: video recording](https://youtu.be/xuZsf3ZX7k8)
+Presentations are indexed at different timestamps!
 
-The [recording](https://youtu.be/xuZsf3ZX7k8) of this event is online.
+And here's a Twitter thread from KCL AI institute:
+[Twitter thread about this from King's AI institute](https://twitter.com/aiatkings/status/1628419338200809472?s=20) 
+
+
+

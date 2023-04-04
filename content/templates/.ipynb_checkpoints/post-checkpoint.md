@@ -1,6 +1,6 @@
 ---
 title: "{{title}}"
-date: {{date}}
+date_created: {{date}}
 draft: true
 tags:
 - example-tag
