@@ -5,12 +5,12 @@ tags:
 ---
 ---
 
-- [ ] Closet door / finish closet
+- [x] Closet door / finish closet
 - [ ] Storage wars en buhardilla
 - [x] Weather station batteries
-- [ ] Install batteries
+- [x] Install batteries
 - [ ] Credit card
 - [x] Pay hot water Wandsworth
 - [x] Buy Kurious tickets
 - [ ] Meal plan
-- [ ] Buy peak district train tickets
+- [x] Buy peak district train tickets

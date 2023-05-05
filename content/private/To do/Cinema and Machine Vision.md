@@ -6,4 +6,8 @@ tags:
 ---
 ---
 
-Finish this book!
+- [x] Finish this book!
+
+
+
+

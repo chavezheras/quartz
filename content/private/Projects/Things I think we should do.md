@@ -18,13 +18,13 @@ Since we (at KCL) are actually a large teaching operation, and CAIL now has crit
 
 ## Projects
 - Book sprint with Meson Press? ―Mercedes
-- [[private/Projects/Large/Creative AI report|Creative AI report]] Survey of the field leveraging research expertise form colleagues in the department, and Serpentine could broker access to the artists for interviews, etc. Maybe can be updated every year? ref. [Oxford report](https://www.oii.ox.ac.uk/news-events/reports/ai-the-arts/). <--are we not much better positioned to do this type of thing?
+- [[private/Projects/Large/Art for Public AI report|Creative AI report]] Survey of the field leveraging research expertise form colleagues in the department, and Serpentine could broker access to the artists for interviews, etc. Maybe can be updated every year? ref. [Oxford report](https://www.oii.ox.ac.uk/news-events/reports/ai-the-arts/). <--are we not much better positioned to do this type of thing?
 
 ## Research outputs
 (sorry for the corporate temrinology)
 
-- JVC edited volume
+-  [ ] ~~JVC edited volume~~
 - Events
-	- CAIL co-sponsored [[Transmediale 2023|Toward a Minor Tech]]
-	- CAIL position paper Launch event
-	- Book launch / conversation ―Jussi's new book, others?
+	-  [x] CAIL co-sponsored [[Transmediale 2023|Toward a Minor Tech]]
+	- [x] CAIL position paper Launch event
+	-  [ ] Book launch / conversation ―Jussi's new book, others?

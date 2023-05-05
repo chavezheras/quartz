@@ -11,5 +11,4 @@ tags:
 ---
 
 
-
 Upload the slides fro this event, and a note about the event with the recording, pictures, etc.

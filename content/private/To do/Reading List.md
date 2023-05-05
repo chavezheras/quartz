@@ -33,3 +33,5 @@ deepfakes are not a problem, but to argue that behind concerns around deepfakes 
 more general class of social problems about the organisation of our social practices.
 
 - [ ] [Deceitful Media](https://global.oup.com/academic/product/deceitful-media-9780190080365?cc=nl&lang=en&) by Simone Natale
+- [ ] [A pattern language for generative AI](https://crfm.stanford.edu/2023/03/13/alpaca.html)
+- [ ] 

@@ -2,6 +2,8 @@
 title: "Towards a Computational Video Essay"
 tags:
 - publication
+- to do
+- research
 ---
 ---
 
@@ -11,7 +13,6 @@ Latest revisions:
 - [x] Make an effort to establish a better dialogue with the digital humanities/cultural analytics (e.g. via Arnold and Tilton's work) in the theoretical framework.
 - [x] In practice these two steps mostly involve bringing up a few sentences/aspects here and there.
 - [x] Divide preliminary results (perhaps call initial insights and reflection) and conclusion.
-
 
 
 

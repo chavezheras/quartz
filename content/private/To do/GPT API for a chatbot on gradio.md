@@ -11,3 +11,5 @@ tags:
 ---
 
 - [ ] Try [this quick tutorial to demo in Prague](https://github.com/Sentdex/ChatGPT-API-Basics)
+
+See also [[public_notes/small large LLMs]]
