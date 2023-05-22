@@ -26,6 +26,10 @@ And did a recent event on policy:
 
 And [this one](https://openuk.uk/wp-content/uploads/2021/07/State-of-Open-Phase-Two.pdf), from [Open UK](https://openuk.uk/) ("the UK organisation for the business of Open Technology")
 
+Papers mentioned in the workshop on Public AI held at KCL on 12 May 2023:
+
+- [ ] [Democratising AI: Multiple Meanings, Goals, and Methods](https://arxiv.org/abs/2303.12642)
+- [ ] [Against “Democratizing AI”](https://link.springer.com/article/10.1007/s00146-021-01357-z)
 
 
 
