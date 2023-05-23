@@ -1,7 +1,7 @@
 ---
 title: "Streaming Video Model"
 date: 25 Apr 2023
-draft: true
+draft: false
 tags:
 - Machine Vision
 ---

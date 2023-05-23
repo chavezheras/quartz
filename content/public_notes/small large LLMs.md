@@ -1,15 +1,15 @@
 ---
 title: "small large LLMs"
 date: 05 May 2023
-draft: true
+draft: false
 tags:
 - LLMs
 - tools
 ---
 ---
-This allegedly [leaked document](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) from a Google engineer, in which they make the case for open-sourcing their models. TLDR; Owning the ecosystem for innovation is more valuable than keeping the models fenced off.
+My colleague Mercedes made me aware of this allegedly [leaked document](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) from a Google engineer, in which they make the case for open-sourcing their models. TLDR; The argument is that owning and cultivating the ecosystem for innovation is more valuable than keeping the models fenced off.
 
-Caveats notwithstanding, say for instance that the diminishing value of training does not account for peoples salaries, is still an interesting read, especially the timeline, narrating all the developments. Great for teaching, but also to make sense of the various moves in the field.
+Caveats notwithstanding, say for instance that the diminishing value of training does not account for peoples salaries in publicly-funded institutions, it is still an interesting read, especially the timeline narrating all the developments. Great for teaching, but also to make sense of the various recent moves in the field.
 
 Notable tools:
 [LLaMA](https://arxiv.org/pdf/2303.16199.pdf) ― Meta
@@ -23,5 +23,5 @@ Notable tools:
 [Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/)
 >an open-source Chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT
 
-This las one was developed by a student-led university consortium called [LMSYS Org](https://lmsys.org/about/)
+This las one was developed by a student-led university consortium called [LMSYS Org](https://lmsys.org/about/)!
 

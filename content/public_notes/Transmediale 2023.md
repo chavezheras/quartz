@@ -3,7 +3,7 @@ title: "Transmediale 2023"
 date: 2 February 2023
 draft: false
 tags:
-- event
+- events
 - publication
 ---
 ---

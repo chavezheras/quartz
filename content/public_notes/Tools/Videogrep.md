@@ -1,7 +1,7 @@
 ---
 title: "Videogrep"
 date: 16 May 2023
-draft: true
+draft: false
 tags:
 - supercut
 - montage
@@ -10,7 +10,7 @@ tags:
 ---
 ---
 
->Videogrep is a command line tool that searches through dialog in video files and makes supercuts based on what it finds. It will recognize .srt or .vtt subtitle tracks, or transcriptions that can be generated with vosk, pocketsphinx, and other tools.
+>Videogrep is a command line tool that searches through dialog in video files and makes [supercuts](https://vimeo.com/440746435) based on what it finds. It will recognize .srt or .vtt subtitle tracks, or transcriptions that can be generated with vosk, pocketsphinx, and other tools.
 
 Sam posted an implementation of Videogrep that runs on Colab, which made me think of running this on a Jupyter Lab instance from our College's computer cluster, and then possibly using it for teaching. The college does not host its own notebook instance, as far as I know, but the cluster can serve a headless Jupyter that can be "tunnelled in" through ssh.
 

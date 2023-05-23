@@ -2,18 +2,20 @@
 ---
 title: "Creative AI Theory and Practice"
 date: 23 Feb 2023
-draft: false
+draft: true
 tags:
 - CAIL
 - event
 ---
 ---
 
-[Creative AI Theory and Practice: video recording](https://youtu.be/xuZsf3ZX7k8)
-Presentations are indexed at different timestamps!
+The recording of our [symposium on Creative AI](https://www.kcl.ac.uk/events/creative-ai-theory-and-practice) is now available. Presentations are indexed at different timestamps.
 
-And here's a Twitter thread from KCL AI institute:
-[Twitter thread about this from King's AI institute](https://twitter.com/aiatkings/status/1628419338200809472?s=20) 
+>On Friday 27 January 2023, Creative AI Lab at King’s College London/Serpentine (Professor Mercedes Bunz and curator Eva Jäger as Lab’s co-founders, Dr Daniel Chávez Heras, PhD student Alasdair Milne, Professor Joanna Zylinska) hosted a one-day symposium supported by the King’s Institute for Artificial Intelligence.
+
+
+<iframe title="Creative AI: Theory and Practice" src="https://www.youtube.com/embed/xuZsf3ZX7k8?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
 
 
 
