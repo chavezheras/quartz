@@ -17,7 +17,7 @@ I presented ongoing research on [[public_notes/Creanalytics|Creanalytics]] forth
 
 ---
 
-The recording of the panel is also now available here starting at about [6:14](vimeo.com/806397141#t=0h6m14s)
+The recording of the panel is also now available here starting at about 6:14
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/806397141?h=0470a6a1ef" #t=22s?autoplay=0 width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
