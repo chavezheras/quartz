@@ -3,12 +3,10 @@ title: "Zeeschuimer"
 date: 15 May 2023
 draft: false
 tags:
-- browser extension
 - 4CAT
-- Interface analysis
 - Social media analysis
-- Platform research
 - UX methods
+- teaching
 ---
 ---
 
