@@ -28,17 +28,7 @@ These strands feed into the [Centre for Digital Culture](https://www.kcl.ac.uk/r
 
 The workshop is broadly organised in a day of introductions and theory, and a second day of practical work and conclusions. We expect to have 5 external researchers, 5 colleagues from King’s, and publish an open invitation for up to 5 PhD students or early career researchers who want to participate.
 
-The proposed programme is as follows:
-
-**Day 1**
-Workshop session 1 ― introductions and lighting presentations
-Workshop session 2 ― general discussion
-Evening lecture ― open to all
-
-**Day 2**
-Workshop session 3 ― practical modelling
-Workshop session 4 ― practical modelling 
-Workshop session 5 ― conclusions and future plans
+The proposed [[private/sculpting workshop programme|programme]] is as follows
 
 We seek funding for the following specific purposes:
 

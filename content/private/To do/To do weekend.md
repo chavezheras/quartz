@@ -6,7 +6,7 @@ tags:
 ---
 
 - [x] Closet door / finish closet
-- [ ] Storage wars en buhardilla
+- [x] Storage wars en buhardilla
 - [x] Weather station batteries
 - [x] Install batteries
 - [ ] Credit card
