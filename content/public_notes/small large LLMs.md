@@ -7,11 +7,11 @@ tags:
 - tools
 ---
 ---
-My colleague Mercedes made me aware of this allegedly [leaked document](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) from a Google engineer, in which they make the case for open-sourcing their models. TLDR; The argument is that owning and cultivating the ecosystem for innovation is more valuable than keeping the models fenced off.
+My colleague Mercedes Bunz made me aware of this allegedly [leaked document](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) from a Google engineer, in which they make the case for open-sourcing their models. TLDR; The argument is that owning and cultivating the ecosystem for innovation is more valuable than keeping the models fenced off.
 
-Caveats notwithstanding, say for instance that the diminishing value of training does not account for peoples salaries in publicly-funded institutions, it is still an interesting read, especially the timeline narrating all the developments. Great for teaching, but also to make sense of the various recent moves in the field.
+Caveats notwithstanding, say for instance that the diminishing value of training does not account for people's salaries in publicly-funded institutions, it is still an interesting read, especially the timeline narrating all the developments. Good for teaching, but also to make sense of the various recent moves in the field.
 
-Notable tools:
+Some of the models and mentioned:
 [LLaMA](https://arxiv.org/pdf/2303.16199.pdf) ― Meta
 [Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)― Stanford
 [Alpaca LoRA](https://github.com/tloen/alpaca-lora)― Stanford + Eric Wang. See [paper here](https://arxiv.org/pdf/2106.09685.pdf).

@@ -10,6 +10,6 @@ tags:
 - [x] Bin bags
 - [x] Milk
 - [x] Hula Hops for lunch
-- [ ] NAS
-- [ ] Active sitting chair
+- [x] NAS
+- [x] Active sitting chair
 - [ ] Plane tickets to MX

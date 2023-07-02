@@ -2,10 +2,11 @@
 ---
 title: "Creative AI Theory and Practice"
 date: 23 Feb 2023
-draft: true
+draft: false
 tags:
 - CAIL
 - event
+- AI
 ---
 ---
 

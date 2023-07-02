@@ -14,4 +14,6 @@ This idea came up when writing about the[[private/To do/Towards a Computational 
 
 Update: this is now an article! Forthcoming in a special Issue on critical technical practice in the journal [Convergence: The International Journal of Research into New Media Technologies](https://journals.sagepub.com/home/con) 
 
+![[assets/images/Screenshot from 2023-07-02 18-08-10.png]]
+
 Also related to a project in collaboration with my wonderful colleagues [Jonathan Gray](https://jonathangray.org/) and [Mercedes Bunz](https://www.kcl.ac.uk/people/mercedes-bunz) on using video editing techniques as data analysis. We commissioned [Sam Lavigne](https://lav.io/) to work on  his [[public_notes/Tools/Videogrep|Videogrep]] tool! More on this soon!

@@ -9,6 +9,6 @@ tags:
 ---
 
 - [ ] Apply to this: [The politics and aesthetics of synthetic media](https://4sonline.org/news_manager.php?page=31391)
-- [ ] Organise my own sculpting time workshop
-- [ ] Prepare paper for Prague
+- [x] Organise my own sculpting time workshop
+- [x] Prepare paper for Prague
 - [ ] Prepare paper for Lausanne 

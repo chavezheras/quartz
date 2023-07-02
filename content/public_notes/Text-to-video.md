@@ -18,3 +18,5 @@ See [this thread](https://twitter.com/CoffeeVectors/status/1628475607846727687?s
 
 See [this hugging face space](https://huggingface.co/spaces/fffiloni/ControlNet-Video) for more on #controlnet 
 
+This [community pipeline](https://github.com/nateraw/stable-diffusion-videos) of the diffusers liberary that takes 2 or more text prompts as arguments and outputs a "walk" interpolation as a sequence of generated images. 
+
