@@ -7,7 +7,7 @@ tags:
 - tools
 ---
 ---
-My colleague Mercedes Bunz made me aware of this allegedly [leaked document](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) from a Google engineer, in which they make the case for open-sourcing their models. TLDR; The argument is that owning and cultivating the ecosystem for innovation is more valuable than keeping the models fenced off.
+My colleague [Mercedes Bunz](https://mercedesbunz.net/) made me aware of this allegedly [leaked document](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) from a Google engineer, in which they make the case for open-sourcing their models. TLDR; The argument is that owning and cultivating the ecosystem for innovation is more valuable than keeping the models fenced off.
 
 Caveats notwithstanding, say for instance that the diminishing value of training does not account for people's salaries in publicly-funded institutions, it is still an interesting read, especially the timeline narrating all the developments. Good for teaching, but also to make sense of the various recent moves in the field.
 
