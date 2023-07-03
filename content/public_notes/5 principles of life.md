@@ -1,12 +1,15 @@
 ---
 title: "5 principles of life"
 date: 24 May 2023
-draft: true
+draft: false
 tags:
 - complex systems
 - cellular biology
 ---
 ---
+
+Some very high-level background about cell-biology for my talk on  [[public_notes/Cultural Metabolism and LLMs on wheels|Cultural Metabolism and LLMs on wheels]] at Prague earlier this year.
+
 According to Paul Nurse:
 
 1. Living things are bounded physical entities
@@ -18,4 +21,4 @@ According to Paul Nurse:
 5. The living thing can have purpose of being better adapted to the life state it finds itself
 
 From his book [What is Life?](https://www.waterstones.com/book/what-is-life/paul-nurse/9781788451406)
-Somewhat related to [[public_notes/Cultural Metabolism and LLMs on wheels|Cultural Metabolism and LLMs on wheels]]
+
