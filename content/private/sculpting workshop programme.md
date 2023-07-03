@@ -10,8 +10,23 @@ tags:
 ## 6 July
 
 9:00-9:30 Coffee and introductions (plenum)
+- Informal introductions over coffee
 
-9:30-11:00 Perspective on cinematic time (guided discussion)
+9:30-11:00 Perspectives on cinematic time (guided discussion)
+- Introduction to the workshop
+	- Me and Andrea
+	- Announcements
+		- Venue - health and safety measures, access, toilets, water fountain
+		- Agenda - note evening event at the Nash
+		- Contact points
+	- The workshop
+		- Overall purpose
+		- Specific objectives
+		- Format: sprint-like design methodology that includes ideation, fast-iteration, and low-fidelity prototyping phases. Over two days, in small interdisciplinary working groups. Note: some people are not there for day 2
+		- Introduction to the clusters - Note: different forms of expertise and contribution
+	- Cinematic time - provide a prompt
+		- Approach by clusters
+		- Discussion in plenum
 
 11:00-11:15 Break
 
