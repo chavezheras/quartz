@@ -33,7 +33,7 @@ tags:
 11:15-13:30 Ideation session 1: exploration (mixed group work)
 - Introduce ideation exercise. Goal: produce ~50 ideas
 - Styles of inquiry:
-	- A world of objects: technical,  engineering,  systematic, universal
+	- A world of objectkcs: technical,  engineering,  systematic, universal
 	- A world of subjects: human, subjective, empathetic, diverse
 
 > [. . .] from  the  perspective  of  a  systems  engineer,  is  the  'man-machine  interface'  ―  the  technical  specification  of  the  ways  in  which  a  user  will  observe,  control  or  feed  information  to  the  product.  A  second  mode  of  engagement  with  human  concerns  is  the  design  process  of  'requirements  capture',  where  a  complex  human  context  must  be  reduced  to  a  finite  set  of  defined  'features' that  should  be  implemented  in  the  eventual  product.
@@ -56,7 +56,8 @@ tags:
 |--------------|-----------|------------|------------|------------|
 | [short videos annotated with short descriptions](https://m-bain.github.io/webvid-dataset/) | visual and textual features | [text-to-video retrieval](https://meru.robots.ox.ac.uk/frozen-in-time/) | video and image joint encoder | from the paper [Frozen in Time](https://arxiv.org/abs/2104.00650) |
 
-- Prompt: in groups, write as many ideas for a system/tool you wish existed for the anlaysis of cinematic time: 20 ideas in 20 minutes (20x20).
+- Prompt 
+	- in groups, write as many ideas for a system/tool you wish existed for the anlaysis of cinematic time: 20 ideas in 20 minutes (20x20).
 	- Anything goes: we are not concerned with viability, specific technologies, data, etc.
 	- Example 1 ― flashback detector: a system that detects flashbacks in films
 	- Example 2 ― discontinuity editor: a tool for automatically re-editing films (edit-style transfer)
