@@ -1,5 +1,5 @@
 ---
-title: "Sculpting Time Workshop"
+title: "Sculpting Time With Computers Workshop"
 date_created: 09 March 2023
 draft: true
 tags:
@@ -28,7 +28,7 @@ These strands feed into the [Centre for Digital Culture](https://www.kcl.ac.uk/r
 
 The workshop is broadly organised in a day of introductions and theory, and a second day of practical work and conclusions. We expect to have 5 external researchers, 5 colleagues from King’s, and publish an open invitation for up to 5 PhD students or early career researchers who want to participate.
 
-The proposed [[private/sculpting workshop programme|programme]] is as follows
+The proposed [[private/Sculpting Time with Computers/Sculpting Time With Computers|programme]] is as follows
 
 We seek funding for the following specific purposes:
 
