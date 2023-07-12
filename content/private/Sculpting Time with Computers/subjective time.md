@@ -7,4 +7,14 @@ tags:
 ---
 ---
 
-Time not only as duration, but as perceived through subjective experience, by audiences and by characters on screen. The relation between time as duration, e.g. a performer's age in years, and subjective time, e.g. a character's age on screen was discussed as one strand of encoding time using computational methods during ideation sessions.
+Time not only as duration, but as perceived through subjective experience, by audiences and by characters on screen. The relation between time as duration, e.g. a performer's age in years, and subjective time, e.g. a character's age on screen was discussed as one strand of encoding time using computational methods in the first and second ideation sessions, and alongside [[private/Sculpting Time with Computers/historical time|historical time]] and [[cinematic time]].
+
+For the refinement session, we considered possible methods to analyse age and ageing on screen, including character age, performer age, and the gap in between. Here is how this table looked during this refinement stage:
+
+![[assets/images/20230706_151508.jpg]]
+
+As a starting point, we considered what it would take to get the difference between performer age and performed age, split by gender. Performer age as a duration can be calculated by identifying the date of birth of performer, e.g. Sean Connery (1930), and their approximate age at a given performance, e.g. _Diamonds are Forever (1971)_, which means he was ~41 at the time of filming.
+
+Performed age is much more difficult. We discussed possible methods for performed age detection, including extracted features from faces, speech and even gestures ―all of which are we thought tended to be noisy/inaccurate/biased. We also considered text sources such as synopses, where main characters are sometimes given age descriptors such as "ten-year-old Finnegan" or relational such as "her mother Estella". Other sources include scripts, which can be more accurate but as [[private/Sculpting Time with Computers/Jake Berger|Jake Berger]] reminded us are also less publicly available, and in some cases also the original literary sources of film adaptations (I think it was [[private/Sculpting Time with Computers/Andrea Farina|Andrea Farina]] who mentioned this).
+
+In terms of gender, [[private/Sculpting Time with Computers/Mila Oiva|Mila Oiva]] and [[private/Sculpting Time with Computers/Isadora Campregher|Isadora Campregher]] referred to their experience with gender detection by name, and [[private/Sculpting Time with Computers/Stephen McConnachie|Stephen McConnachie]] was in touch later to contribute the [INA speech segmenter with gender identification](https://github.com/ina-foss/inaSpeechSegmenter), and his project on [gender inference by first name](https://www.nesta.org.uk/blog/women-in-film-what-does-the-data-say/).

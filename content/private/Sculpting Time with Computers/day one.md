@@ -26,7 +26,9 @@ To kick things off, we had a first round of discussion in four disciplinary clus
 Having laid out some of the challenges and opportunities from our cluster perspective, we mixed into working groups and got to work on a [[long list of ideas]]. This session was organised around the principle of fast iteration: collect as many ideas as possible, no matter how unfeasible, to have a large pool to work from.
 
 ### Ideation session two: refinement
-Having laid out some of the challenges and opportunities from our cluster perspective, we mixed into working groups and got to work on a long list of ideas. This ideation session was organised around the principle of fast iteration: collect as many ideas as possible, no matter how unfeasible, to have a large pool to work from.
+From the long list, three ideas organically emerged as the ones participants were most interested in, so we organised these by types of time, one for each table: [[private/Sculpting Time with Computers/historical time|historical time]], [[subjective time]], [[cinematic time]]. We remixed again into working groups, and went on to refine these three ideas by mapping some of the possible inputs and outputs relevant to each kind of time.
+
+Next, see [[private/Sculpting Time with Computers/day two|day two]]!
 
 
 
