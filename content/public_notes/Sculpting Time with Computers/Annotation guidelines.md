@@ -1,7 +1,7 @@
 ---
 title: "Annotation guidelines"
 date: 2023-07-14
-draft: true
+draft: false
 tags: STC workshop
 ---
 ---

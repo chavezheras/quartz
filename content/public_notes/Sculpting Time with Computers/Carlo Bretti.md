@@ -1,7 +1,7 @@
 ---
 title: "Carlo Bretti"
 date: 10 Jul 2023
-draft: true
+draft: false
 tags: person
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "day one"
 date: 10 Jul 2023
-draft: true
+draft: false
 tags: STC workshop
 ---
 ---
@@ -17,9 +17,9 @@ As I was organising this workshop, there were two references I kept (not always 
 
 - The other is Andrei Tarkovsky's [_Sculpting Time_](https://utpress.utexas.edu/9780292776241/), where he argues for an aesthetics of rhythm: "The dominant, all-powerful factor of the film image is rhythm, expressing the course of time within the frame."
 
-I am very glad that some of these themes emerged during discussion, but also that they were just a point of departure. To kick things off, we had a first round of discussion in four disciplinary clusters: [[public_notes/Sculpting Time with Computers/film|film]], [[public_notes/Sculpting Time with Computers/computational|computational]], [[public_notes/Sculpting Time with Computers/collections|collections]], and [[public_notes/Sculpting Time with Computers/design|design]]. 
+I am very glad that some of these themes emerged during discussion, but also that they were just a point of departure. To kick things off, we had a first round of discussion in four disciplinary clusters: [[public_notes/Sculpting Time with Computers/film|film]], [[public_notes/Sculpting Time with Computers/computational|computational]], [[public_notes/Sculpting Time with Computers/collections|collections]], and [[public_notes/Sculpting Time with Computers/design|design]].  (Thanks to [[public_notes/Sculpting Time with Computers/Joel McKim|Joel]] for the action shots below).
 
-![[assets/images/20230706_122721_r.jpg]]
+![[assets/images/F1AeTakXsAcmmef.jpeg]] 
 
 
 ### Ideation session one: exploration

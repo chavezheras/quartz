@@ -1,7 +1,7 @@
 ---
 title: "high-level reasoning about time"
 date: 10 Jul 2023
-draft: true
+draft: false
 tags: STC workshop
 ---
 ---
