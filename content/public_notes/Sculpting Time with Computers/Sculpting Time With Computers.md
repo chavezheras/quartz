@@ -1,0 +1,29 @@
+---
+title: "Scultping Time with Computers"
+date: 24 May 2023
+draft: true
+tags:
+- event
+- STC Workshop
+- Computational Moving Images, Machine Vision
+---
+---
+
+# Sculpting Time With Computers
+## Interdisciplinary Approaches to Computational Moving Images
+
+This workshop brought together a group of researchers in the fields of digital and computational humanities, computer vision, film, digital preservation and archives, cultural history, and creative computing, to explore together emerging computational approaches to the study of time in moving images.
+
+In these net of notes, I document and summarise our workshop activities (and thanks to [[public_notes/Sculpting Time with Computers/Pauline van Mourik Broekman|Pauline]] for sharing her comprehensive notes which helped me put everything together in one place). You can navigate by following the links below, and find here [[public_notes/Sculpting Time with Computers/List of all notes|a list of all notes]]. 
+
+The work for this workshop was split over two days:
+
+-  On [[public_notes/Sculpting Time with Computers/day one|day one]] we explored the modelling of moving images as computational artefacts, and discussed the opportunities and challenges of computational approaches to large collections of moving images. 
+
+- Based on these discussions, on [[public_notes/Sculpting Time with Computers/day two|day two]] we tested some of our ideas in practice using King's CREATE HPC cluster, kindly supported by [James Graham](https://www.kcl.ac.uk/people/james-graham) and [Matt Penn](https://www.kcl.ac.uk/people/matt-penn) from the [e-Research team](https://www.kcl.ac.uk/research/facilities/e-research)at KCL.
+
+
+![[assets/images/20230706_122721_r.jpg]]
+
+[[public_notes/Sculpting Time with Computers/Participants|Participants]] include researchers from leading laboratories in Europe, including the Cultural Data Analytics Open Lab ([CUDAN](https://cudan.tlu.ee/)) at Tallinn University and the Cultural Analytics Lab ([CANAL](http://canal-lab.uva.nl/)) at the University of Amsterdam, as well as archives and digital preservation experts from public UK institutions such as the [BBC](https://www.bbc.co.uk/archive/) and the [BFI](https://www2.bfi.org.uk/explore-film-tv/bfi-national-archive/about-bfi-national-archive/archive-teams/data-team). The workshop was hosted by the [Computational Humanities Research Group](https://www.kcl.ac.uk/research/computational-humanities-research-group) in the [Department of Digital Humanities](https://www.kcl.ac.uk/ddh) at King’s College London.
+

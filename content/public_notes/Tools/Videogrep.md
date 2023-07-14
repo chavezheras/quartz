@@ -5,7 +5,7 @@ draft: false
 tags:
 - supercut
 - montage
-- tool
+- tools
 - words and images
 ---
 ---

@@ -1,0 +1,35 @@
+---
+title: "day two"
+date: 10 Jul 2023
+draft: true
+tags:
+- STC workshop
+---
+---
+
+## 7 July
+
+### Fast prototyping session
+On day two, we gathered again to decide what ideas we could put to the test and fast-prototype. We examined two datasets: [[public_notes/Sculpting Time with Computers/Mila Oiva|Mila Oiva's]] soviet newsreels and this publicly available sample from [BBC Archives](https://archive-downloader.bbcrewind.co.uk/). We decided to focus on the news reels, which have richer metadata. The idea was to test two methods that map to our discussions of [[public_notes/Sculpting Time with Computers/historical time|historical time]] and meaningful objects, and [[public_notes/Sculpting Time with Computers/cinematic time|cinematic time]] and fast/slow editing:
+
+- [Open clip](https://github.com/mlfoundations/open_clip) --> an open source implementation of CLIP pretrained on the LAION 2B dataset. The core idea behind CLIP is to have text and images in a shared representational space that allows calculations of proximity between them. This can then be used for analysis and retrieval.
+
+![](https://raw.githubusercontent.com/mlfoundations/open_clip/main/docs/CLIP.png)
+
+
+- [Cinescale](https://cinescale.github.io/) --> a shot scale classification model trained on a set of manually annotated frames from 124 films. The goal is to classify different shots by their scale: close-up, medium shot, long shot, etc. In [[public_notes/Creanalytics|this paper]] I tried shot classification without annotations using face detection, but that approach is of course limited to faces, whereas this can pick up close-ups of objects for example.
+
+![](https://cinescale.github.io/img/shottype.jpg)
+
+
+We know these techniques have limitations, as explored during [[public_notes/Sculpting Time with Computers/day one|day one]] of the workshop. But we also think that, combined, these methods complement each other and can be useful for the analysis of temporal dynamics in large collections of moving images. Testing this combination against the newsreel data set is helpful because thanks to [[public_notes/Sculpting Time with Computers/Mila Oiva|Mila's]] sustained work on these reels we know something about their local as well as global structures, so we can apply the methods to the collection of images, and use the collection of images as a way to test the the methods.
+
+During the [[public_notes/Sculpting Time with Computers/High-dimensional cinema|panel on high-dimensional cinema]], I referred to this as working towards "aesthetically sensitive systems", and in our discussion the day after [[public_notes/Sculpting Time with Computers/Nanne van Noord|Nanne]] suggested "aesthetically sensitive retrieval" as an applied version of this idea. We wrapped up the day with some [[public_notes/Sculpting Time with Computers/ideas and next steps|ideas and next steps]] along these lines.
+
+We also worked [[public_notes/Sculpting Time with Computers/Annotation guidelines|annotation guidelines]] for the newsreels.
+
+![[assets/images/20230707_170101.jpg]]
+
+Thanks to [James Graham](https://www.kcl.ac.uk/people/james-graham) and [Matt Penn](https://www.kcl.ac.uk/people/matt-penn) from the e-research team at KCL, who helped us setup ad-hoc VMs to  run these tests in the CREATE HPC cluster from the Digital Humanities Computer Lab (pictured above).
+
+
