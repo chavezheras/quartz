@@ -1,6 +1,5 @@
 ---
 title: "Scultping Time with Computers"
-publishDate: 17 July 2023
 date: 17 July 2023
 draft: false
 enableToc: false
@@ -15,7 +14,7 @@ tags:
 
 This workshop brought together a group of researchers in the fields of digital and computational humanities, computer vision, film, digital preservation and archives, cultural history, and creative computing, to explore together emerging computational approaches to the study of time in moving images.
 
-In these net of notes, I document and summarise our workshop activities (and thanks to [[public_notes/Sculpting Time with Computers/Pauline van Mourik Broekman|Pauline]] for sharing her comprehensive notes which helped me put everything together in one place). You can navigate by following the links below, and find here [[public_notes/Sculpting Time with Computers/List of all notes|a list of all notes]]. 
+In this small net of notes, I document and summarise our workshop activities (and thanks to [[public_notes/Sculpting Time with Computers/Pauline van Mourik Broekman|Pauline]] for sharing her comprehensive notes which helped me put everything together in one place). Follow the links below for organic navigation, or find here [[public_notes/Sculpting Time with Computers/List of all notes|a list of all notes]]. 
 
 The work for this workshop was split over two days:
 
