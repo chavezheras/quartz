@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/public_notes/Sculpting Time with Computers/Pauline van Mourik Broekman.md",
+                "file": "content/public_notes/Creanalytics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/public_notes/Sculpting Time with Computers/Pauline van Mourik Broekman.md",
+                "file": "content/public_notes/Creanalytics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/public_notes/Sculpting Time with Computers/Pauline van Mourik Broekman.md",
+                "file": "content/public_notes/Creanalytics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/public_notes/Sculpting Time with Computers/Pauline van Mourik Broekman.md"
+                "file": "content/public_notes/Creanalytics.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "d93ca29e8c76beb5",
   "lastOpenFiles": [
+    "content/private/To do/Towards a Computational Video Essay.md",
+    "content/public_notes/Creanalytics.md",
+    "content/public_notes/Sculpting Time with Computers/Pauline van Mourik Broekman.md",
     "screenshot.png"
   ]
 }
