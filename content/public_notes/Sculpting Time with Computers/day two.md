@@ -27,7 +27,7 @@ Testing this combination against the newsreel data set is helpful because thanks
 
 During the [[public_notes/Sculpting Time with Computers/High-dimensional cinema|panel on high-dimensional cinema]], I referred to this back and forth between modalities of inquiry as building "aesthetically sensitive systems", and in our discussion the day after [[public_notes/Sculpting Time with Computers/Nanne van Noord|Nanne]] suggested "aesthetically sensitive retrieval" as an applied version of this idea. We wrapped up the day with some [[public_notes/Sculpting Time with Computers/ideas and next steps|ideas and next steps]] along these lines.
 
-We also worked [[public_notes/Sculpting Time with Computers/Annotation guidelines|annotation guidelines]] for the newsreels.
+[[public_notes/Sculpting Time with Computers/Mila Oiva|Mila]] and [[public_notes/Sculpting Time with Computers/Andrea Farina|Andrea]] also sampled the news reels and produced an [[public_notes/Sculpting Time with Computers/Annotation guidelines|annotation guidelines]] document for possible future human annotation, and that directly informs editing style detection and open CLIP queries. 
 
 ![[assets/images/20230707_170101.jpg]]
 
