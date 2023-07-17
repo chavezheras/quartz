@@ -16,7 +16,7 @@ On day two, we gathered again to decide what ideas we could put to the test and 
 ![](https://raw.githubusercontent.com/mlfoundations/open_clip/main/docs/CLIP.png)
 
 
-- [Cinescale](https://cinescale.github.io/) --> a shot scale classification model trained on a set of manually annotated frames from 124 films. The goal is to classify different shots by their scale: close-up, medium shot, long shot, etc. In [[public_notes/Creanalytics|this paper]] I tried shot classification without annotations using face detection, but that approach is of course limited to faces, whereas this can pick up close-ups of objects for example.
+- [Cinescale](https://cinescale.github.io/) --> a shot scale classification model trained on a set of manually annotated frames from 124 films. The goal is to classify different shots by their scale: close-up, medium shot, long shot, etc. In [[public_notes/Creanalytics|this paper]] I tried shot classification without annotations using face detection, but that approach is of course limited to faces, whereas the Cinescale library can in principle pick up close-ups of objects for example.
 
 ![](https://cinescale.github.io/img/shottype.jpg)
 

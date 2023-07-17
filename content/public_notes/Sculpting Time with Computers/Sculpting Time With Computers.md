@@ -1,6 +1,7 @@
 ---
 title: "Scultping Time with Computers"
-date: 17 July 2023
+publishDate: 17 July 2023
+date: 15 July 2023
 draft: false
 enableToc: false
 tags:
@@ -10,8 +11,7 @@ tags:
 ---
 ---
 
-# Sculpting Time With Computers
-## Interdisciplinary Approaches to Computational Moving Images
+# Interdisciplinary Approaches to Computational Moving Images
 
 This workshop brought together a group of researchers in the fields of digital and computational humanities, computer vision, film, digital preservation and archives, cultural history, and creative computing, to explore together emerging computational approaches to the study of time in moving images.
 
