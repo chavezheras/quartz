@@ -10,7 +10,7 @@ tags: person
 Artist and lecturer at the UAL's Creative Computing Institute. Co-founder of [Mute magazine](https://www.metamute.org/)that covered cyberculture, artistic practice, left-wing politics, urban regeneration, biopolitics, direct democracy, net art, the commons, horizontality and UK arts.
 
 ### Background
-PhD at the Royal College of Art
+PhD at the Royal College of Art. Available from: https://researchonline.rca.ac.uk/5281/
 
 ### Field
 

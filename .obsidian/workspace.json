@@ -11,9 +11,11 @@
             "id": "d93ca29e8c76beb5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "screenshot.png"
+                "file": "content/public_notes/Sculpting Time with Computers/Pauline van Mourik Broekman.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "screenshot.png",
+                "file": "content/public_notes/Sculpting Time with Computers/Pauline van Mourik Broekman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "screenshot.png",
+                "file": "content/public_notes/Sculpting Time with Computers/Pauline van Mourik Broekman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "screenshot.png"
+                "file": "content/public_notes/Sculpting Time with Computers/Pauline van Mourik Broekman.md"
               }
             }
           }
@@ -145,5 +147,7 @@
     }
   },
   "active": "d93ca29e8c76beb5",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "screenshot.png"
+  ]
 }
