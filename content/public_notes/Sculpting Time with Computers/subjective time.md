@@ -1,6 +1,6 @@
 ---
 title: "subjective time"
-date: 10 Jul 2023
+date: 17 Jul 2023
 draft: false
 tags: STC workshop
 ---

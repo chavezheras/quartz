@@ -1,7 +1,7 @@
 ---
 title: "Scultping Time with Computers"
 publishDate: 17 July 2023
-date: 15 July 2023
+date: 17 July 2023
 draft: false
 enableToc: false
 tags:

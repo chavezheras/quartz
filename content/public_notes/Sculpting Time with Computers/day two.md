@@ -1,6 +1,6 @@
 ---
 title: "day two"
-date: 10 Jul 2023
+date: 17 Jul 2023
 draft: false
 tags: STC workshop
 ---
@@ -13,7 +13,7 @@ On day two, we gathered again to decide what ideas we could put to the test and 
 
 - [Open clip](https://github.com/mlfoundations/open_clip) --> an open source implementation of CLIP pretrained on the LAION 2B dataset. The core idea behind CLIP is to have text and images in a shared representational space that allows calculations of proximity between them. This can then be used for analysis and retrieval.
 
-![](https://raw.githubusercontent.com/mlfoundations/open_clip/main/docs/CLIP.png)
+![[assets/images/open_clip.png]]
 
 
 - [Cinescale](https://cinescale.github.io/) --> a shot scale classification model trained on a set of manually annotated frames from 124 films. The goal is to classify different shots by their scale: close-up, medium shot, long shot, etc. In [[public_notes/Creanalytics|this paper]] I tried shot classification without annotations using face detection, but that approach is of course limited to faces, whereas the Cinescale library can in principle pick up close-ups of objects for example.
