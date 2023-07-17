@@ -8,7 +8,7 @@ tags: STC workshop
 
 This strand on table 3 focused on cinematic time at the most local level: from shot to shot and even frame to frame; a kind of computational poetics of moving images, which is probably the closest to my own work. We discussed more or less established methods to calculate cutting rates, such as average shot length (see for example [cinemetrics](https://cinemetrics.uchicago.edu/index.php) and this [shorter piece by Stephen Follows](https://stephenfollows.com/many-shots-average-movie/)), and their automation using techniques such as [shot boundary detection](https://en.wikipedia.org/wiki/Shot_transition_detection).
 
-One of the ideas that emerged from these discussions is the subjective experience of film at a more perceptual (phenomenological?) level, and the language we use to describe that, for example fast or slow. Is there a correlation between fast subjects and fast cutting rates, or between editing styles and the perception of time on screen? 
+One of the ideas that emerged from these discussions is the subjective experience of film at a more perceptual (phenomenological?) level, and the language we use to describe that kind of experience, e.g. fast or slow. [[public_notes/Sculpting Time with Computers/Stephen McConnachie|Stephen]] elaborated on this and got us to ask if there might be a correlation between fast subjects and fast cutting rates, or between editing styles and the perception of time on screen. 
 
 What would it take to engineer a fast-slow signal from sequences of frames?
 How slow is [slow cinema](https://en.wikipedia.org/wiki/Slow_cinema)?

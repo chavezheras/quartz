@@ -6,7 +6,7 @@ tags: STC workshop
 ---
 ---
 
-This table was concerned with epochs or periods of time commonly used to describe, classify and retrieve moving images, using terms such as "Victorian", "post-war", "pre-modern", etc. Our [[public_notes/Sculpting Time with Computers/collections|collections]] cluster mentioned this is often how archives are searched by users and for commercial licencing: "I need a shot of a street in a rainy night in Victorian London".
+This table was concerned with epochs or periods of time commonly used to describe, classify and retrieve moving images, using terms such as "Victorian", "post-war", "pre-modern", etc. [[public_notes/Sculpting Time with Computers/Jake Berger|Jake]]  and [[public_notes/Sculpting Time with Computers/Stephen McConnachie|Stephen]] mentioned this is often how archives are searched by users and for commercial licencing: "I need a shot of a street in a rainy night in Victorian London".  They agreed an "epoch" or "era" detector would be very helpful for archive users.
 
 What would it take to design an "era detector"?
 
