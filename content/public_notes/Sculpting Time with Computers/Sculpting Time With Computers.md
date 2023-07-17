@@ -1,7 +1,8 @@
 ---
 title: "Scultping Time with Computers"
-date: 14 July 2023
+date: 17 July 2023
 draft: false
+toc: false
 tags:
 - event
 - STC Workshop
