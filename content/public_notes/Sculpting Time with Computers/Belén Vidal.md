@@ -16,23 +16,17 @@ She holds a PhD in Film Studies from Glasgow University, an MA from Georgetown U
 
 ### Interests/projects/skills
 
-Film analysis and film theory, focusing on:
-- History and memory in contemporary cinemas
-- The historical film genres, especially the biopic and the heritage film
-- Spanish film history, and contemporary cinema & media in Spain
-- Cinephilia and film cultures
+Belén co-leads the international project [_AGE-C Ageing and Gender in European cinema_](https://wordpress.er.kcl.ac.uk/film-studies-research/2022/11/age-c-ageing-and-gender-in-european-cinema/)
+
+>AGE-C aims to establish cultural gerontology as a key approach in film studies by training a cohort of postdocs to study how cinematic representations of gender shape notions of old age and well-being across Europe.
 
 ## Links
 https://www.kcl.ac.uk/people/dr-belen-vidal
 
 
-
-
-
-
-
 #### Research Interests 
 
+Film analysis and film theory, focusing on:
 - History and memory in contemporary cinemas
 - The historical film genres, especially the biopic and the heritage film
 - Spanish film history, and contemporary cinema & media in Spain
