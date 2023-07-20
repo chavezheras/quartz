@@ -1,5 +1,5 @@
 ---
-title: "Scultping Time with Computers"
+title: "Sculpting Time with Computers"
 date: 17 July 2023
 draft: false
 enableToc: false
