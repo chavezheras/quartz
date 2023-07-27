@@ -25,9 +25,6 @@ The work for this workshop was split over two days:
 
 ![[assets/images/20230706_122721_r.jpg]]
 
-[[public_notes/Sculpting Time with Computers/Participants|Participants]] include researchers from leading laboratories in Europe, including the Cultural Data Analytics Open Lab ([CUDAN](https://cudan.tlu.ee/)) at Tallinn University and the Cultural Analytics Lab ([CANAL](http://canal-lab.uva.nl/)) at the University of Amsterdam, as well as archives and digital preservation experts from public UK institutions such as the [BBC](https://www.bbc.co.uk/archive/) and the [BFI](https://www2.bfi.org.uk/explore-film-tv/bfi-national-archive/about-bfi-national-archive/archive-teams/data-team). The workshop was hosted by the [Computational Humanities Research Group](https://www.kcl.ac.uk/research/computational-humanities-research-group) in the [Department of Digital Humanities](https://www.kcl.ac.uk/ddh) at King’s College London.
-
-[King's Institute for Artificial Intelligence](https://www.kcl.ac.uk/ai) kindly provided us with welcome packs, including totes, and notebooks! 
-
+[[public_notes/Sculpting Time with Computers/Participants|Participants]] include researchers from leading laboratories in Europe, including the Cultural Data Analytics Open Lab ([CUDAN](https://cudan.tlu.ee/)) at Tallinn University and the Cultural Analytics Lab ([CANAL](http://canal-lab.uva.nl/)) at the University of Amsterdam, as well as archives and digital preservation experts from public UK institutions such as the [BBC](https://www.bbc.co.uk/archive/) and the [BFI](https://www2.bfi.org.uk/explore-film-tv/bfi-national-archive/about-bfi-national-archive/archive-teams/data-team). The workshop was hosted by the [Computational Humanities Research Group](https://www.kcl.ac.uk/research/computational-humanities-research-group) in the [Department of Digital Humanities](https://www.kcl.ac.uk/ddh) at King’s College London. And a big thanks to [King's Institute for Artificial Intelligence](https://www.kcl.ac.uk/ai) who kindly provided us with welcome packs, including totes, and notebooks.
 
 

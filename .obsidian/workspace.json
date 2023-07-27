@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4fe21c8c79277d74",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/public_notes/Sculpting Time with Computers/Sculpting Time With Computers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/public_notes/Sculpting Time with Computers/Sculpting Time With Computers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/public_notes/Sculpting Time with Computers/Sculpting Time With Computers.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +151,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d93ca29e8c76beb5",
+  "active": "4fe21c8c79277d74",
   "lastOpenFiles": [
+    "content/public_notes/Sculpting Time with Computers/Sculpting Time With Computers.md",
     "content/public_notes/small large LLMs.md",
     "content/public_notes/Creanalytics.md",
     "content/private/To do/Towards a Computational Video Essay.md",
