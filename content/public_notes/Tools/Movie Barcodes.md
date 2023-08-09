@@ -2,6 +2,7 @@
 title: Movie Barcodes
 draft: false
 tags: tools
+date: 09 Aug 2023
 date_created: 09 August 2023, 02:12
 date_modified: 09 August 2023, 02:37
 ---
