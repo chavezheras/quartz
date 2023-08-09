@@ -164,11 +164,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "c4b47c7caf64f80a",
+  "active": "c6c136b24aeb42a1",
   "lastOpenFiles": [
+    "content/assets/13a8ca18e7b11309f5447486df8b5a74_MD5.jpg",
     "content/public_notes/Video as data.md",
     "content/public_notes/Video understanding community.md",
     "content/public_notes/small large LLMs.md",
