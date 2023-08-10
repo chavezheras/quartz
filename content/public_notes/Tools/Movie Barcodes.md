@@ -10,8 +10,7 @@ date_modified: 09 August 2023, 02:37
 
 There are a few tools online to generate ["movie barcodes"](https://thefilmstage.com/movie-barcode-an-entire-feature-film-in-one-image/) like this one, from [Made by Machine](https://movingpixel.net/project/mbm/):
 
-
-![[made_by_machine_whole_barcode.jpg]]
+![[assets/made_by_machine_whole_barcode.jpg]]
 
 
 The process variously involves sampling frames from a video file, and stretching them as lines in chronological order to visualise the colour-time dynamics of the underlying moving images. The idea has been around for a while, and there are now on-demand printing services that sell you a poster of your favourite film bar code.
