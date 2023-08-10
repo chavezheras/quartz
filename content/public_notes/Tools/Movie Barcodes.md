@@ -15,7 +15,7 @@ There are a few tools online to generate ["movie barcodes"](https://thefilmstage
 
 The process variously involves sampling frames from a video file, and stretching them as lines in chronological order to visualise the colour-time dynamics of the underlying moving images. The idea has been around for a while, and there are now on-demand printing services that sell you a poster of your favourite film bar code.
 
-This involves a relatively simple processing and manipulation of [[Video as data]], with no machine learning involved. Yet, it tells us something about the films, I think it can be used as a pre or post processing technique in combination with other methods.
+This involves a relatively simple processing and manipulation of [[public_notes/Video as data|Video as data]], with no machine learning involved. Yet, it tells us something about the films, I think it can be used as a pre or post processing technique in combination with other methods.
 
 - [Movie Barcodes](https://timbennett.github.io/movie-barcodes/) --> backend: [FFMPEG](https://www.ffmpeg.org/) + [PIL](https://en.wikipedia.org/wiki/Python_Imaging_Library)
 - [Movie Barcode](https://github.com/MarcBresson/movie-barcode/tree/main) --> wrapped as a Python library
