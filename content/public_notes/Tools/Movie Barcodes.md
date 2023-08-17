@@ -25,5 +25,5 @@ Here are some tools I've been using to make movie bar codes:
 
 I've been trying these out to make an image for the cover of my new book, [[public_notes/Cinema and Machine Vision|Cinema and Machine Vision]], possibly warped as as a circle, similar to [this example](https://rlang.io/create-a-radial-movie-tv-barcode-using-polar-coordinates/) (in R). The polar transformation seems rather onerous to implement directly in python (for me anyway), but a similar effect can be achieved using the polar filter in [GIMP](https://www.gimp.org/), or the ImageMagick's [polar distortion transformation](https://imagemagick.org/Usage/distorts/#polar). I intend to do a mini tutorial on this for my visualisation students, but here's a first preview:
 
-![[3a559d0f8531eb83fc3a7c6cc3e7132b_MD5.png]]
+![[assets/images/3a559d0f8531eb83fc3a7c6cc3e7132b_MD5.png]]
 
