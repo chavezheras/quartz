@@ -12,15 +12,17 @@ As a public-facing part of the [[public_notes/Sculpting Time with Computers/Scul
 
 The panel was chaired by [[public_notes/Sculpting Time with Computers/Belén Vidal|Belén Vidal]] and it was recorded. Below the full recording and the timestamps for each section:
 
-[00:00:00](https://www.youtube.com/watch?v=sJmBGM68FU8&t=0s): Introduction DFI (Marion Thain)[00:04:25](https://www.youtube.com/watch?v=sJmBGM68FU8&t=265s): Introduction DFI (Steven Connor) 
-[00:08:25](https://www.youtube.com/watch?v=sJmBGM68FU8&t=505s) : Nanne van Noord ― An Analytics of Film Culture
-[00:21:12](https://www.youtube.com/watch?v=sJmBGM68FU8&t=1272s): Mila Oiva ― Exploring Soviet Newsreels with Computer Vision
-[00:34:00](https://www.youtube.com/watch?v=sJmBGM68FU8&t=2040s): Daniel Chávez Heras ― Creanalytics: between analysis and generation [00:49:34](https://www.youtube.com/watch?v=sJmBGM68FU8&t=2974s): Q&A - New answers to old questions, or new questions through new methods?
-[01:01:50](https://www.youtube.com/watch?v=sJmBGM68FU8&t=3710s): Q&A - Perestroika problem or feature?
-[01:07:00](https://www.youtube.com/watch?v=sJmBGM68FU8&t=4020s): Q&A - Applications beyond academia? 
-[01:13:15](https://www.youtube.com/watch?v=sJmBGM68FU8&t=4395s): Q&A - Challenges and opportunities of multi-modal computational methods? 
-[01:18:34](https://www.youtube.com/watch?v=sJmBGM68FU8&t=4714s): Q&A - Preserving or contesting the cannon through computers?
-[01:27:56](https://www.youtube.com/watch?v=sJmBGM68FU8&t=5276s): Q&A - Remapping old theory with new methods
+- [00:00:00](https://www.youtube.com/watch?v=sJmBGM68FU8&t=0s): Introduction DFI (Marion Thain)
+- [00:04:25](https://www.youtube.com/watch?v=sJmBGM68FU8&t=265s): Introduction DFI (Steven Connor) 
+- [00:08:25](https://www.youtube.com/watch?v=sJmBGM68FU8&t=505s) : Nanne van Noord ― An Analytics of Film Culture
+- [00:21:12](https://www.youtube.com/watch?v=sJmBGM68FU8&t=1272s): Mila Oiva ― Exploring Soviet Newsreels with Computer Vision
+- [00:34:00](https://www.youtube.com/watch?v=sJmBGM68FU8&t=2040s): Daniel Chávez Heras ― Creanalytics: between analysis and generation
+-  [00:49:34](https://www.youtube.com/watch?v=sJmBGM68FU8&t=2974s): Q&A - New answers to old questions, or new questions through new methods?
+- [01:01:50](https://www.youtube.com/watch?v=sJmBGM68FU8&t=3710s): Q&A - Perestroika problem or feature?
+- [01:07:00](https://www.youtube.com/watch?v=sJmBGM68FU8&t=4020s): Q&A - Applications beyond academia? 
+- [01:13:15](https://www.youtube.com/watch?v=sJmBGM68FU8&t=4395s): Q&A - Challenges and opportunities of multi-modal computational methods? 
+- [01:18:34](https://www.youtube.com/watch?v=sJmBGM68FU8&t=4714s): Q&A - Preserving or contesting the cannon through computers?
+- [01:27:56](https://www.youtube.com/watch?v=sJmBGM68FU8&t=5276s): Q&A - Remapping old theory with new methods
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sJmBGM68FU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
