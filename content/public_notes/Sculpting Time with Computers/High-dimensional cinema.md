@@ -12,8 +12,8 @@ As a public-facing part of the [[public_notes/Sculpting Time with Computers/Scul
 
 The panel was chaired by [[public_notes/Sculpting Time with Computers/Belén Vidal|Belén Vidal]] and it was recorded. Below the full recording and the timestamps for each section:
 
-- [00:00:00](https://www.youtube.com/watch?v=sJmBGM68FU8&t=0s): Introduction DFI (Marion Thain)
-- [00:04:25](https://www.youtube.com/watch?v=sJmBGM68FU8&t=265s): Introduction DFI (Steven Connor) 
+- [00:00:00](https://www.youtube.com/watch?v=sJmBGM68FU8&t=0s): Introduction DFI ([Marion Thain](https://www.kcl.ac.uk/people/professor-marion-thain))
+- [00:04:25](https://www.youtube.com/watch?v=sJmBGM68FU8&t=265s): Introduction DFI ([Steven Connor](https://www.kcl.ac.uk/people/steven-connor)) 
 - [00:08:25](https://www.youtube.com/watch?v=sJmBGM68FU8&t=505s) : Nanne van Noord ― An Analytics of Film Culture
 - [00:21:12](https://www.youtube.com/watch?v=sJmBGM68FU8&t=1272s): Mila Oiva ― Exploring Soviet Newsreels with Computer Vision
 - [00:34:00](https://www.youtube.com/watch?v=sJmBGM68FU8&t=2040s): Daniel Chávez Heras ― Creanalytics: between analysis and generation
