@@ -3,8 +3,8 @@ title: Movie Barcodes
 draft: false
 tags: tools
 date: 09 Aug 2023
-date_created: 09 August 2023, 02:12
-date_modified: 09 August 2023, 02:37
+date_created: 09 Aug 2023
+date_modified: 17 Aug 2023
 ---
 ---
 
@@ -24,4 +24,6 @@ Here are some tools I've been using to make movie bar codes:
 - [movie-barcodes](https://github.com/andrewdcampbell/movie-barcodes) --> command line application, back end is [OpenCV](https://opencv.org/) and [numpy](https://numpy.org/)
 
 I've been trying these out to make an image for the cover of my new book, [[public_notes/Cinema and Machine Vision|Cinema and Machine Vision]], possibly warped as as a circle, similar to [this example](https://rlang.io/create-a-radial-movie-tv-barcode-using-polar-coordinates/) (in R). The polar transformation seems rather onerous to implement directly in python (for me anyway), but a similar effect can be achieved using the polar filter in [GIMP](https://www.gimp.org/), or the ImageMagick's [polar distortion transformation](https://imagemagick.org/Usage/distorts/#polar). I intend to do a mini tutorial on this for my visualisation students, but here's a first preview:
-![[cover_just_ring.png]]
+
+[[51ab92c3f820326410834873ac611f3e_MD5.png|Open: cover_just_ring 1.png]]
+![[51ab92c3f820326410834873ac611f3e_MD5.png]]
