@@ -8,7 +8,7 @@ tags: STC workshop
 Here is a list of all notes (excluding [[public_notes/Sculpting Time with Computers/Participants|participants]]) that together give an account of our activities at the [[public_notes/Sculpting Time with Computers/Sculpting Time With Computers|Sculpting Time With Computers]] workshop.
 
 - [[public_notes/Sculpting Time with Computers/Annotation guidelines|Annotation guidelines]]
-- [[public_notes/Sculpting Time with Computers/High-dimensional cinema|High-dimensional cinema]]
+- [[High-dimensional Cinema|High-dimensional Cinema]]
 - [[public_notes/Sculpting Time with Computers/List of all notes|List of all notes]]
 - [[public_notes/Sculpting Time with Computers/Participants|Participants]]
 - [[public_notes/Sculpting Time with Computers/Reverse compression as motion estimation|Reverse compression as motion estimation]]

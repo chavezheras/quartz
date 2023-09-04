@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/public_notes/Tools/Movie Barcodes.md",
+                "file": "content/public_notes/Sculpting Time with Computers/High-dimensional Cinema.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/public_notes/Tools/Movie Barcodes.md",
+                "file": "content/public_notes/Sculpting Time with Computers/High-dimensional Cinema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/public_notes/Tools/Movie Barcodes.md",
+                "file": "content/public_notes/Sculpting Time with Computers/High-dimensional Cinema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/public_notes/Tools/Movie Barcodes.md"
+                "file": "content/public_notes/Sculpting Time with Computers/High-dimensional Cinema.md"
               }
             }
           }
@@ -149,10 +149,12 @@
   },
   "active": "55f5490b044b143a",
   "lastOpenFiles": [
+    "content/public_notes/Tools/Movie Barcodes.md",
+    "content/public_notes/Cinema and Machine Vision.md",
+    "content/public_notes/Sculpting Time with Computers/High-dimensional Cinema.md",
     "content/public_notes/Creanalytics.md",
     "content/assets/made_by_machine_whole_barcode.jpg",
     "content/assets/13a8ca18e7b11309f5447486df8b5a74_MD5.jpg",
-    "content/public_notes/Tools/Movie Barcodes.md",
     "content/public_notes/Tools/Motion Canvas.md",
     "content/public_notes/Sculpting Time with Computers/Belén Vidal.md",
     "content/public_notes/Video as data.md",
