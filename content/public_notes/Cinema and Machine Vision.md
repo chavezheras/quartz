@@ -12,6 +12,6 @@ Here a teaser from the back cover:
 
 >_Cinema and Machine Vision_ unfolds the aesthetic, epistemic, and ideological dimensions of machine-seeing films and television using computers. With its critical-technical approach, this book presents to the reader key new problems that arise as AI becomes integral to visual culture. It theorises machine through a selection of aesthetics, film theory, and applied machine learning research, dispelling widely held assumptions about computer systems designed to watch and make images on our behalf. 
 
-And here's [[content/public_notes/Tools/Movie Barcodes|something]] for those who prefer to judge a book by its cover.
+And here's [[public_notes/Tools/Movie Barcodes|something]] for those who prefer to judge a book by its cover.
 
 
