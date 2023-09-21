@@ -1,6 +1,6 @@
 ---
 title: EINA conference
-draft: true
+draft: false
 tags:
   - presentation
 date_created: 19 Sep 2023
