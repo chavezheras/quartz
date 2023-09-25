@@ -19,7 +19,7 @@ theme: moon
 # Bienes públicos, ganancias privadas
 ### _creatividad y producción digital en la era de los medios sintéticos_
 
-Daniel Chávez Heras
+Dr Daniel Chávez Heras
 
 King's College London
 
@@ -67,7 +67,7 @@ Iniciado en 2019 (?) por por mis colegas: Mercedes Bunz, en King's, y Eva Jager,
 ---
 # [Creative AI Lab](https://creative-ai.org/)
 
-### Espacio de colaboración y red de intercambio entre artistas, curadores, y académicos
+### Espacio de colaboración y red de intercambio entre artistas, curadores y académicos
 
 - Seminarios de investigación
 - [Simposio sobre IA y creatividad](https://youtu.be/xuZsf3ZX7k8?si=c4VvoC6OhmFVSi6K)
@@ -117,7 +117,7 @@ Experimentando con VQGAN, Disco Diffusion, y otros modelos para generación de i
 
 ---
 
-> The final image called for human **estimation, approximation, and simple guesswork. It was more work than creativity**. Producing the image additionally required infrastructure credits from Google. The book cover therefore is an expression of one of the key ideas in this book: that **we need to understand algorithmic operations and AI from the perspective of work**
+> The final image called for human **estimation, approximation, and simple guesswork. It was more work than creativity**. Producing the image additionally required infrastructure credits from Google. The book cover therefore is an expression of one of the key ideas in this book: that **we need to understand algorithmic operations and AI from the perspective of work**.
 
 \- Tobias Blanke
 
@@ -132,7 +132,7 @@ note: Para mi propio libro, Cinema and Machine Vision, próximo a publicarse con
 ---
 ## ¿Qué sucedió?
 
-### ¿Cómo pasamos de experimentos de garage a medios masivos de escala industrial?
+### ¿Cómo pasamos de experimentos de garage a medios masivos a escala industrial?
 
 note: de un grupo de entusiastas experimentando con nuevas tecnologías que en apariencia no tenían una aplicación obvia, a empresas multimillonarias que ahora absorben otras industrias completas, como el caso de las imágenes de stock, o son objeto de  demandas, como el caso de Getty Images, o la acción colectiva de demanda por un grupo de artistas en contra de Stability AI.
 
@@ -202,7 +202,7 @@ note: podríamos ir más lejos, por ejemplo, para entender como es que estas tec
 
 
 ### ¿Utopía o apocalipsis?
-### ¿Emancipación creativa, o rentismo extractivista?
+### ¿Emancipación creativa o rentismo extractivista?
 ### ¿Simbiosis o parasitismo?
 
 note: Inundar internet de medios sintéticos, o proscribirlos?
@@ -210,7 +210,7 @@ Controversias varias sobre uso responsable, ética en IA, alineamiento, riesgo e
 La realidad es más humana y más familiar de lo que estos escenarios sugieren.
 
 ---
->Lo que hoy llamamos _inteligencia artificial_, opera a través del tejido social, la economía, y la cultura. Es lo que podríamos llamar una técnica cultural, en tanto re-configura el acceso a los medios de producción, reorganiza el trabajo, y modifica las nociones inter-subjetivas de valor
+>Lo que hoy llamamos _inteligencia artificial_, opera a través del tejido social, la economía, y la cultura. Es lo que podríamos llamar una técnica cultural, en tanto reconfigura el acceso a los medios de producción, reorganiza el trabajo, y modifica las nociones intersubjetivas de valor.
 
 note: en este sentido, IA no es tan distinta a otras tecnologías de uso general, con aplicaciones e implicaciones de largo alcance que dan forma al ecosistema material humano, como la invención de la electricidad, el concreto reforzado, el plástico, y la escritura o la fotografía.
 Hay mucho que aprender sobre cómo nacieron, crecieron y se regularon estos avances científicos y tecnológicos, sobre sus efectos sociales y ecológicos.
@@ -219,7 +219,7 @@ Hay mucho que aprender sobre cómo nacieron, crecieron y se regularon estos avan
 ## Una propuesta en tres partes
 
 1. Identificar de manera precisa los distintos modelos de producción en tecnologías de IA.
-2. Evaluar cuáles son los modelos enriquecen o empobrecen el dominio público a largo plazo.
+2. Evaluar cuáles son los modelos que enriquecen o empobrecen el dominio público a largo plazo.
 3. Negociar en bloque el acceso y gobierno de los nuevos medios de producción.
 
 
