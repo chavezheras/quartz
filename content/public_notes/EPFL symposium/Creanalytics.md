@@ -4,7 +4,7 @@ draft: false
 tags:
   - presentation
 date_created: 25 Sep 2023
-date_modified: 25 Sep 2023
+date_modified: 28 Sep 2023
 margin: 0
 width: 1920
 height: 1200
@@ -27,52 +27,64 @@ note: Thank you for the invitation, delighted to be here.
 
 ---
 
-![[assets/images/book_and_article.png]]
+![[assets/images/183e9e0918ae84bbdba0e566dd06a5e7_MD5.jpg]]
 
 note:
+A project in 2018 to "machine-see" the BBC television archive, and "machine-edit" new sequences "television by the meter" ―we jokingly referred to it.
 
-Recent paper of the same name in _Convergence: The International Journal of Research into New Media Technologies_.
+Aired on BBC 4 on September 2018, seen by half a million people in the UK.
+It included four sections that corresponded to different computational techniques to traverse the archive: including text analysis over subtitled material, object detection, motion estimation (visual energy), and a mixed between the three (what we would call today a multimodal method).
 
-I will go over the example I developed in the paper to flesh out the argument behind the notion of creanalytics, and I will conclude with a more general reflection about AI and the future of audiovisual archives.
+---
+
+<iframe src="https://player.vimeo.com/video/429123167?h=a9f1da53da" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/429123167">2. MbM: Object Detection</a> from <a href="https://vimeo.com/chavezheras">Daniel Ch&aacute;vez Heras</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+note:
+This was a project in experimental television, in hindsight it was very much of its time, and frankly, as time goes by I am more and more surprised that no one stopped us from doing it. 
+
+In light of everything that happened after with AI, this project stands a somewhat of a quaint expression of many of the issues discussed yesterday, from access and copyright, to the role of generative technologies and their impact on screen culture today.
 
 ---
 
 
-# Archives and Datasets
-
-![[assets/images/4e8d25b2f1c29232da6e892367c5ef79_MD5.jpg]]
-
-note: 
-Archives for humans to keep and explore
-Datasets for machines to process and produce
-
-Archives are created under a historical impulse; they are organised according to the record-keeping needs of the cultures that build them. This historical impulse requires a high degree of structuring, usually in the form of hierarchical ontologies that facilitate cataloguing and retrieval, and that aspire to a certain degree of historical accuracy, integrity, and permanence.
-
-Datasets also respond to the sense-making needs of the cultures that build them however they come together under a different impulse; they tend to be contingent assemblages, made in response to specific a priori needs and questions relevant to engineering and the sciences.
-In data science and machine learning engineering, datasets tend to be granular, flattened to matrix-like structures whose individual items are not meant to be publicly accessible or even individually meaningful to human observers.
- 
-Contemporary AI has succeeded in part for not caring at all about whether specific media artefacts are deemed significant enough by human critics to go ‘on the record’.
-
-Archives and datasets produce value in almost opposite ways: while archives endow their constituent artefacts and records with additional symbolic layers, making them stable and tractable, datasets that feed contemporary AI systems atomise these artefacts, stripping them from context in order to make patterns visible through computational processing. In the first case value is produced by stability and addressability, in the second by aggregation and mutability.
-
-Image by Erik Desmazières
-
---
-## Moving Image Archives and Datasets
-
-![[assets/images/eye_film_installation.jpg|1000]]
+## An epistemic gap between archives and datasets
+## A functional proximity between data analysis and media synthesis
 
 note:
 
-Film archives, understood here as organised collections of individual films and other moving images, with records that include directors, years, countries of origin, performers, producers, etc. 
+In this talk I want to highlight two key insights I gained from this project:
 
-However, each of these films can also be thought of as a collection of frames and a dataset of images. And through computing, these individual frames can relate much more freely, not only to other frames in the same film, but to a multitude of other frames in a multitude of other films. 
+By this I mean the gap between how it is that AI systems contribute to the production of knowledge, what kinds of knowledge, and how this knowledge might be valuable for the understanding of moving images. And how this is radically different from how moving image archives contribute to knowledge and produce value to the societies that keep them.
 
-Film archives can be thought in this way as potential collections of datasets, or more precisely, large latent datasets themselves.
+By this I mean the rather unexpected way in which scientific and creative computing are entangled in generative AI systems.
+
+I will spend a couple of slides on the first point, because I think most of this ground has been covered in one way or another yesterday, and spend some more time on the second premise, including examples.
+
+---
+
+
+## Archives and Datasets
+
+![[assets/images/eye_film_installation.jpg|1000]]
+
+note: 
+Archives are made for humans, datasets are by humans for machines.
+
+Oversimplification: we know machines are made by and for humans too, but still, the purpose of their 
+
+Archives are created under a historical impulse; they are organised according to the record-keeping needs of the cultures that build them. This historical impulse requires system that facilitates cataloguing and retrieval, and that aspires to a certain degree of historical accuracy, integrity, and permanence.
+
+Datasets also respond to the sense-making needs of the cultures that build them, but they come together to lay claim on the future more than the past, usually in response to specific problems and questions that need solving, which is to say they are much more instrumental.
+
+In data science and machine learning engineering, datasets tend to be granular, flattened to matrix-like structures whose individual items are not meant to be publicly accessible or even individually meaningful to human observers.
+ 
+Arguably, contemporary AI has succeeded precisely for not caring at all about whether specific media artefacts are deemed significant enough to go ‘on the record’, and be keept for posterity, with all the cost implications that this kind of collective memory keeping entails, but because of the opposite approach, by voraciously ingesting heaps of data that in themselves were not canonical or significant. 
+
+I would got a step further still, and say that archives and datasets produce value in almost opposite ways: while archives endow their constituent artefacts and records with additional symbolic layers, making them stable and tractable, datasets that feed contemporary AI systems atomise these artefacts, stripping them from context in order to make patterns visible through computational processing. In the first case value is produced by stability and addressability, in the second by aggregation and mutability.
 
 --
 
-## Semantic ladder of analysis
+## Data palimpsests
 
 | Artefact     | Processing level       | Example                                                     |
 |--------------|------------------------|-------------------------------------------------------------|
@@ -83,13 +95,17 @@ Film archives can be thought in this way as potential collections of datasets, o
 | Frame        | Computer/human         | Individual frame (512 × 340 pixels)                         |
 | Pixels       | Numeric – disaggregate | Vector ([176800x1]); Tensor ([16, 3, 340, 512])             |
 
-note: 
-This table exemplifies the palimpsest of artefacts and levels of analysis at play between audiovisual archives and machine learning datasets.
+note:
+
+Yet, there is a relation between archives and datasets.
+Each of the films contained in a film archive can be thought of a dataset of frames, and every frame as dataset of pixels.  Through computing, individual frames and their pixels can relate much more freely, not only to other frames in the same film, but to a multitude of other frames in a multitude of other films, in high-dimensional spaces where every pixel might be put in contact with any other.
+
+This table exemplifies the palimpsest of artefacts and levels of analysis at play between audiovisual archives, comprised of artefacts, and datasets atomised for machine learning operations. The epistemic gap between the two ends of the table are yet to be fully understood in the configuration of a computational archive.
 
 ---
 
-# Creanalytics
-## (data) analysis through (creative) generation
+## Data Analysis and Media Synthesis
+
 
 ![[assets/images/CSN_newsreels_1.png|1000]]
 
@@ -97,41 +113,38 @@ note:
 
 Analytic and generative approaches in computing tend to be split between scientific and creative domains, with their respective tools and communities of practice.
 
-Deployed as analytical engines, computers can be used to find patterns across vast collections of imagery, and these patterns are often expressed as relations of proximity in space. 
+Deployed as analytical engines, computers can be used to find patterns across vast collections of imagery, and these patterns are often expressed as relations of proximity in space. We have seen examples of this yesterday in multiple way of projecting archives onto 2d or 3d spaces.
 
-But to amount to knowledge, these spatial correlations require interpretation and explanation, which unfold sequentially, as critics seek to organise these patterns to infer causal relations and temporal representations between data objects and events. By coupling an analytical engine with a generative one, computing can be used to configure narratives about these proximity patterns and enable explanatory propositions through compositional techniques familiar to media scholarship.
+The image in this slide shows a t-SNE mapping of a collection of soviet news reels. The dataset and the tool were developed by colleagues in CUDAN from the cultural data analytics lab in Tallinn, Estonia.
 
-The image shows a t-SNE mapping of a collection of soviet news reels. The dataset and the tool were developed by my colleagues in the cultural data analytics lab in Tallinn, Estonia.
+But to amount to knowledge, these spatial correlations require interpretation and explanation, which require relations of necessity, not just proximity, and tend to unfold sequentially, as researchers, critics and users seek to organise these patterns to infer causal relations and plausible reasons for data objects and events to be organised in space the way they are.
+
+By coupling an analytical engine with a generative one, computing can be used to configure narratives about these proximity patterns and enable explanatory propositions through compositional techniques familiar to media scholarship.
+
 
 --
 
 ## Supercuts
-### (Data) sampling through (video) editing
 
-note:
-a supercut is an editing technique in which short video clips with common motifs or salient stylistic characteristics are extracted from their original context and are sequenced together in a montage. The commonalities are highlighted through repetition and interpreted by viewers as a form of _aboutness_, which then becomes the thematic content of the supercut.
-
---
 
 >Just as capitalism treated workers as machines as a prelude to workers being replaced by machines, so also supercutters simulate database thinking in apparent anticipation of a moment, perhaps in the near future, when **neural networks will be able to search the entirety of digitized film history and create supercuts themselves, automatically**.
 
 \- Max Tohline, 2021
-
-note:
-Every time we use a search engine, we commission a computer to make us something quite like a supercut. 
-
-The supercut entails not simply a mode of editing, but a mode of thinking expressed by a mode of editing.
-
---
 
 
 >In the near future there will be a simple software or app, feeding its algorithm with keywords and other elements of interest, which will **automatically generate a perfect supercut of media content of any kind within a blink of an eye**.
 
 \- Miklós Kiss, 2013
 
+note:
+
+a supercut is an editing technique in which short video clips with common motifs or salient stylistic characteristics are extracted from their original context and are sequenced together in a montage. The commonalities are highlighted through repetition and interpreted by viewers as a form of _aboutness_, which then becomes the thematic content of the supercut.
+
+The supercut entails not simply a mode of editing, but a mode of thinking expressed by a mode of editing.
+
 --
 
-## Automating the supercut
+## Computational supercuts
 
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/830237949?h=5fb9301c4d" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
@@ -157,7 +170,7 @@ This channel is operated by the American media company _Fandango_, which owns th
 
 In their YouTube channel _Movieclips_ is described as ‘the largest collection of licensed movie clips on the web’. At the time of writing, it had over 58 million subscribers and almost 60 billion aggregated views. 
 
-In terms of sheer size and exposure, these numbers dwarf most film archives, but it is important to note that in terms of breadth and diversity, these movie clips are only one deep but thin slice of global film production, namely, recent Hollywood popular cinema licenced by these large media companies.
+In terms of access, these numbers dwarf most film archives, but it is important to note that in terms of breadth and diversity, these movie clips are only one deep but thin slice of global film production, namely, recent Hollywood popular cinema licenced by these large media companies.
 
 --
 
@@ -167,7 +180,6 @@ In terms of sheer size and exposure, these numbers dwarf most film archives, but
 - 350 films
 - From 1931 to 2019
 - 287 unique directors
-
 
 --
 
@@ -229,7 +241,11 @@ the obvious caveats of this is the simplification of emotions to few categories,
 <p><a href="https://vimeo.com/602000956">Big Angry Faces v.01</a> from <a href="https://vimeo.com/chavezheras">Daniel Ch&aacute;vez Heras</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 note:
-still, the supercut works as a supercut
+On the one  hand the computational supercut involves applying computer vision methods to annotate large collections of moving images to find patterns, much in the guise of cultural analytics. 
+
+But on the other, as well as plotting these images in space to view them at a distance, to make sense of them we need to reinscribe these patterns in time, giving data objects a duration again, and enabling interpretation through the familiar operations of montage and the syntactic and synoptic apparatus of (dis)continuity as a modality for meaning making and explanation. 
+
+The kind of reverse editing proposed in the computational supercut links in this way analytical and creative epistemic strategies: knowledge and value created through the making and unmaking of moving imagery; visual culture that feeds AI that feeds back into visual culture.>)
 
 --
 
@@ -237,38 +253,62 @@ still, the supercut works as a supercut
 
 
 note:
+
 I have experimented further with this type of parametric sampling/editing, and some of these experiments can be found online. If there is enough interest I might develop the technique further and might distribute it as a tool that can be used in other collections.
-
----
-
-
-# Moving image archive of the future
-
->...in which value is created through the computational making and unmaking of moving imagery; visual culture that feeds AI that feeds back into visual culture.
-
-
-
-note:
-On the one  hand the computational supercut involves applying computer vision methods to annotate large collections of moving images to find patterns, much in the guise of cultural analytics. 
-
-But on the other, as well as plotting these images in space to view them at a distance, to make sense of them we need to reinscribe these patterns in time, giving data objects a duration again, and enabling interpretation through the familiar operations of montage and the syntactic and synoptic apparatus of (dis)continuity as a modality for meaning making and explanation. 
-
-The kind of reverse editing proposed in the computational supercut links in this way analytical and creative epistemic strategies: knowledge and value created through the making and unmaking of moving imagery; visual culture that feeds AI that feeds back into visual culture.
-
 
 --
 
-# Moving image archive of the future
+## Continuity Matrix (Noël Burch)
 
-- Structurally similar to a dataset of datasets
-- Accessed through narrative forms of interaction
-- Shaped and reshaped on demand
+| **Time**/**Space** | **Continuous** | **Ellipsis (definite)** | **Ellipsis (indefinite)** | **Time reversal (definite)** | **Time reversal (indefinite)** |
+| ------------------- | -------------- | ----------------------- | ------------------------- | ---------------------------- | ------------------------------ |
+| Continuous          | CC             | CE                      | CEi                       | CR                           | CRi                            |
+| Contiguous          | CtC            | CtE                     | CtEi                      | CtR                          | CtRi                           |
+| Discontinuous       | DC             | DE                      | DEi                       | DR                           | DRi                            |
+
+
+note: 
+But we know we make sense of images not only by what is shown on screen, but by what is omitted. Arguably, films convey as much meaning through time elision than they do through time recording.
+
+Therefore, in order to model a “computational Burch” we need both the edit points that separate one shot from the next _and_ an annotation of what viewers infer to be in-between the shots. This second signal is much more elusive because it needs to be encoded form a subjective unconscious process that appears to leave no traces.
+
+--
+
+![[assets/images/godfather_continuity.png]]
+
+--
+
+![[assets/images/burch_continuity_1.png]]
+
+--
+
+![[assets/images/burch_continuity_2.png]]
 
 
 note:
+Note that while the patterns above reflect the parallel editing technique in this sequence, they are not representations of the shots themselves, but of the relations between them as inferred by a viewer; the subjective invisible that makes the objective visible meaningful.
 
-briefly describe these points
+---
+
+# Moving image archive of the future
+
+- Create and recreate the archive
+- Play the archive
+
+
+note:
+- Structurally similar to a system of systems
+- Accessed through narrative forms of interaction
+- Shaped and reshaped on demand
+	- access different versions of the archive, and simulate what might have been under different circumstances
+	- play (reproduce) the archive, as if it were a larger form of media
+
+
 
 
 ---
-![[assets/images/3a559d0f8531eb83fc3a7c6cc3e7132b_MD5.png|1000]]
+
+![[assets/images/book_and_article_2.png]]
+
+note:
+
